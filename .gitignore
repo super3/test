@@ -1,0 +1,8 @@
+data/
+data.tar
+__pycache__/
+venv/
+models/
+results/
+*.pyc
+.DS_Store
